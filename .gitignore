@@ -1,0 +1,33 @@
+# Virtual Environments
+venv/
+.venv/
+UV-Venv/
+env/
+myenv/
+Python/UV-Venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac files
+.DS_Store
+.DS_Store?
+
+# Environment variables
+.env
+.env.local
+
+# Large model files
+*.bin
+*.pt
+*.pkl
+*.h5
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+Langgraph/venv/
+Python/venv/
