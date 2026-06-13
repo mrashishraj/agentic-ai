@@ -1,10 +1,15 @@
+cat > .gitignore << 'EOF'
 # Virtual Environments
 venv/
 .venv/
 UV-Venv/
 env/
 myenv/
+my-venv/
 Python/UV-Venv/
+Python/venv/
+Langchain/my-venv/
+Langgraph/venv/
 
 # Python cache
 __pycache__/
@@ -26,8 +31,6 @@ __pycache__/
 *.pkl
 *.h5
 
-# Jupyter Notebooks checkpoints
+# Jupyter checkpoints
 .ipynb_checkpoints/
-
-Langgraph/venv/
-Python/venv/
+EOF
