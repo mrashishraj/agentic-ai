@@ -2,9 +2,12 @@ langchain
 ipykernel
 python-dotenv
 langchain_community
+langchain-community
 pypdf
 bs4
 arxiv
 pymupdf
 wikipedia
 langchain-text-splitters
+python-dotenv
+chromadb
