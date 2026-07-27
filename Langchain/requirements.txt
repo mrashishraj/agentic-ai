@@ -18,3 +18,4 @@ langchain_chroma
 langchain-openai
 beautifulsoup4
 streamlit
+langchain_groq
