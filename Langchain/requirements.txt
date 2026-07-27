@@ -17,3 +17,4 @@ faiss-cpu
 langchain_chroma
 langchain-openai
 beautifulsoup4
+streamlit
